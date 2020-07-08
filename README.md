@@ -3,4 +3,4 @@ Mão Cheia é um Match-three feito utilizando a versão 2018.3 da Unity para a d
 
 O sistema de contagem de ingredientes e gerenciador dos níveis desbloqueados no menu foram elaborados exclusivamente pela autora do código.
 
-Para uma versão jogável na web, acesse [o link](iseta.itch.io/mao-cheia)
+Para uma versão jogável na web, acesse [o link](https://iseta.itch.io/mao-cheia)
